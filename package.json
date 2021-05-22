@@ -1,0 +1,47 @@
+{
+  "name": "kintone-customization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:prod": "webpack --mode=production",
+    "build:dev": "webpack --mode=development --devtool=eval-source-map --watch"
+  },
+  "keywords": [
+    "kintone"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanoshi-1009/kintone-customization-template"
+  },
+  "author": "y.idakko@gmail.com",
+  "license": "MIT",
+  "description": "This is my kintone customization template.",
+  "devDependencies": {
+    "@babel/cli": "7.14.3",
+    "@babel/core": "7.14.3",
+    "@babel/preset-env": "7.14.2",
+    "@babel/preset-react": "7.13.13",
+    "@babel/preset-typescript": "7.13.0",
+    "@cybozu/eslint-config": "14.0.0",
+    "babel-loader": "8.2.2",
+    "css-loader": "5.2.5",
+    "eslint": "7.26.0",
+    "node-sass": "6.0.0",
+    "prettier": "2.3.0",
+    "sass-loader": "11.1.1",
+    "style-loader": "2.0.0",
+    "typescript": "4.2.4",
+    "webpack": "5.37.1",
+    "webpack-cli": "4.7.0"
+  },
+  "dependencies": {
+    "@kintone/kintone-ui-component": "0.7.8",
+    "@kintone/rest-api-client": "2.0.1",
+    "axios": "0.21.1",
+    "core-js": "3.12.1",
+    "dayjs": "1.10.4",
+    "jquery": "3.6.0",
+    "regenerator-runtime": "0.13.7",
+    "sweetalert2": "10.16.9"
+  }
+}

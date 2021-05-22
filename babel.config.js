@@ -9,7 +9,6 @@ module.exports = function (api) {
         corejs: 3
       }
     ],
-    "@babel/preset-react",
     "@babel/preset-typescript"
   ];
   const plugins = [];

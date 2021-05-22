@@ -1,10 +1,11 @@
 module.exports = {
-  entry: { index: "./src/js/index.js" },
+  entry: { index: "./src/js/index.ts" },
   resolve: {
     alias: {
       modules: __dirname + "/node_modules",
       common: __dirname + "/common"
-    }
+    },
+    extensions: [".ts", ".tsx", ".js", ".json"]
   },
   module: {
     rules: [

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "check-types": "tsc",
     "build:prod": "webpack --mode=production",
     "build:dev": "webpack --mode=development --devtool=eval-source-map --watch"
   },
@@ -20,9 +21,9 @@
     "@babel/cli": "7.14.3",
     "@babel/core": "7.14.3",
     "@babel/preset-env": "7.14.2",
-    "@babel/preset-react": "7.13.13",
     "@babel/preset-typescript": "7.13.0",
     "@cybozu/eslint-config": "14.0.0",
+    "@kintone/dts-gen": "^4.1.0",
     "babel-loader": "8.2.2",
     "css-loader": "5.2.5",
     "eslint": "7.26.0",

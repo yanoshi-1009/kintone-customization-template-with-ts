@@ -1,5 +1,7 @@
 declare namespace kintone.types {
-  interface Fields {}
+  interface Fields {
+    attachment: kintone.fieldTypes.File;
+  }
   interface SavedFields extends Fields {
     $id: kintone.fieldTypes.Id;
     $revision: kintone.fieldTypes.Revision;

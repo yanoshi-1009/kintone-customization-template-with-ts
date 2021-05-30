@@ -43,6 +43,6 @@
     "dayjs": "1.10.5",
     "jquery": "3.6.0",
     "regenerator-runtime": "0.13.7",
-    "sweetalert2": "11.0.15"
+    "sweetalert2": "11.0.16"
   }
 }

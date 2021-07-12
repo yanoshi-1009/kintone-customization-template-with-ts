@@ -23,7 +23,7 @@
     "@babel/preset-env": "7.14.7",
     "@babel/preset-typescript": "7.14.5",
     "@cybozu/eslint-config": "14.0.1",
-    "@kintone/dts-gen": "4.2.6",
+    "@kintone/dts-gen": "4.2.7",
     "babel-loader": "8.2.2",
     "css-loader": "5.2.6",
     "eslint": "7.30.0",

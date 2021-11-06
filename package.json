@@ -26,7 +26,7 @@
     "@kintone/dts-gen": "4.2.11",
     "babel-loader": "8.2.3",
     "css-loader": "6.5.1",
-    "eslint": "7.32.0",
+    "eslint": "8.2.0",
     "node-sass": "6.0.1",
     "prettier": "2.4.1",
     "sass-loader": "12.3.0",

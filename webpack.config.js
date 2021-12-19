@@ -22,13 +22,30 @@ module.exports = {
             loader: "css-loader",
             options: { url: false }
           },
-          "sass-loader"
+          {
+            loader: "sass-loader",
+            options: {
+              implementation: require("sass")
+            }
+          }
         ]
       },
       {
         test: /.(png|jpg|jpeg|gif|svg|woff|woff2|eot|ttf)(\?v=\d+\.\d+\.\d+)?$/i,
         type: "asset"
       }
+    ]
+  },
+  optimization: {
+    minimizer: [
+      // https://webpack.js.org/plugins/terser-webpack-plugin/#preserve-comments
+      new TerserPlugin({
+        terserOptions: {
+          format: {
+            comments: /@license/i
+          }
+        }
+      })
     ]
   }
 };

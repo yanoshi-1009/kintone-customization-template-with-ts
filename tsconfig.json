@@ -1,14 +1,16 @@
 {
   "compilerOptions": {
-    "target": "ES2020",
-    "module": "ES2020",
-    "esModuleInterop": true,
+    "target": "es2021",
+    "module": "es2022",
+    "strict": true,
     "noEmit": true,
-    "strict": true
+    "allowSyntheticDefaultImports": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "esModuleInterop": true
   },
-  "files": [
-    "./node_modules/@kintone/dts-gen/kintone.d.ts",
-    "./src/js/fields.d.ts"
-  ],
-  "include": ["src/**/*"]
+  "files": ["./node_modules/@kintone/dts-gen/kintone.d.ts"],
+  "include": ["src/js/*.ts"]
 }

@@ -1,3 +1,5 @@
+const TerserPlugin = require("terser-webpack-plugin");
+
 module.exports = {
   entry: { index: "./src/js/index.ts" },
   resolve: {

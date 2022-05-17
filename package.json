@@ -19,9 +19,9 @@
   "description": "This is my kintone customization template.",
   "devDependencies": {
     "@babel/cli": "7.17.10",
-    "@babel/core": "7.17.10",
-    "@babel/preset-env": "7.17.10",
-    "@babel/preset-typescript": "7.16.7",
+    "@babel/core": "7.17.12",
+    "@babel/preset-env": "7.17.12",
+    "@babel/preset-typescript": "7.17.12",
     "@cybozu/eslint-config": "17.0.1",
     "@kintone/dts-gen": "6.0.0",
     "babel-loader": "8.2.5",

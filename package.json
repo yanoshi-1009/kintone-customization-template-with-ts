@@ -45,7 +45,7 @@
     "dayjs": "1.11.5",
     "jquery": "3.6.0",
     "regenerator-runtime": "0.13.9",
-    "sass": "1.54.4",
+    "sass": "1.54.5",
     "sweetalert2": "11.4.28"
   }
 }

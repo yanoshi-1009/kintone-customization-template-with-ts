@@ -46,6 +46,6 @@
     "jquery": "3.6.1",
     "regenerator-runtime": "0.13.10",
     "sass": "1.55.0",
-    "sweetalert2": "11.5.1"
+    "sweetalert2": "11.5.2"
   }
 }

@@ -30,7 +30,7 @@
     "@kintone/dts-gen": "6.1.18",
     "babel-loader": "9.1.0",
     "babel-plugin-polyfill-corejs3": "^0.6.0",
-    "core-js-pure": "^3.26.1",
+    "core-js-pure": "^3.27.0",
     "css-loader": "6.7.3",
     "eslint": "8.30.0",
     "prettier": "2.8.1",

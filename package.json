@@ -29,7 +29,7 @@
     "@cybozu/eslint-config": "19.0.0",
     "@kintone/dts-gen": "6.1.30",
     "babel-loader": "9.1.2",
-    "babel-plugin-polyfill-corejs3": "^0.7.1",
+    "babel-plugin-polyfill-corejs3": "^0.8.1",
     "core-js-pure": "^3.30.2",
     "css-loader": "6.7.3",
     "eslint": "8.40.0",

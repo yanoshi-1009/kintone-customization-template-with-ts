@@ -46,7 +46,7 @@
     "@kintone/rest-api-client": "3.3.12",
     "axios": "1.4.0",
     "dayjs": "1.11.7",
-    "jquery": "3.6.4",
+    "jquery": "3.7.0",
     "sweetalert2": "11.7.5"
   }
 }

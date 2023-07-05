@@ -27,7 +27,7 @@
     "@babel/preset-env": "7.22.6",
     "@babel/preset-typescript": "7.22.5",
     "@cybozu/eslint-config": "20.0.1",
-    "@kintone/dts-gen": "7.0.3",
+    "@kintone/dts-gen": "7.0.4",
     "babel-loader": "9.1.2",
     "babel-plugin-polyfill-corejs3": "^0.8.1",
     "core-js-pure": "^3.31.0",

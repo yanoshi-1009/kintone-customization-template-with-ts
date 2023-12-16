@@ -32,7 +32,7 @@
     "babel-plugin-polyfill-corejs3": "^0.8.7",
     "core-js-pure": "^3.34.0",
     "css-loader": "6.8.1",
-    "eslint": "8.55.0",
+    "eslint": "8.56.0",
     "prettier": "3.1.1",
     "sass": "^1.69.5",
     "sass-loader": "13.3.2",

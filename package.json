@@ -45,7 +45,7 @@
     "@babel/runtime": "^7.24.8",
     "@kintone/rest-api-client": "5.5.2",
     "axios": "1.7.2",
-    "dayjs": "1.11.11",
+    "dayjs": "1.11.12",
     "jquery": "3.7.1",
     "sweetalert2": "11.12.2"
   }

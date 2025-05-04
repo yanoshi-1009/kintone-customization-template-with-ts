@@ -47,6 +47,6 @@
     "axios": "1.9.0",
     "dayjs": "1.11.13",
     "jquery": "3.7.1",
-    "sweetalert2": "11.20.0"
+    "sweetalert2": "11.21.0"
   }
 }

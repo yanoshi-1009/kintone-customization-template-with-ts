@@ -21,10 +21,10 @@
   },
   "description": "This is my kintone customization template.",
   "devDependencies": {
-    "@babel/cli": "7.27.1",
+    "@babel/cli": "7.27.2",
     "@babel/core": "7.27.1",
     "@babel/plugin-transform-runtime": "^7.27.1",
-    "@babel/preset-env": "7.27.1",
+    "@babel/preset-env": "7.27.2",
     "@babel/preset-typescript": "7.27.1",
     "@cybozu/eslint-config": "24.0.0",
     "@kintone/dts-gen": "8.1.1",

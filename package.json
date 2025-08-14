@@ -21,10 +21,10 @@
   },
   "description": "This is my kintone customization template.",
   "devDependencies": {
-    "@babel/cli": "7.28.0",
-    "@babel/core": "7.28.0",
-    "@babel/plugin-transform-runtime": "^7.28.0",
-    "@babel/preset-env": "7.28.0",
+    "@babel/cli": "7.28.3",
+    "@babel/core": "7.28.3",
+    "@babel/plugin-transform-runtime": "^7.28.3",
+    "@babel/preset-env": "7.28.3",
     "@babel/preset-typescript": "7.27.1",
     "@cybozu/eslint-config": "24.2.0",
     "@kintone/dts-gen": "8.1.2",
@@ -42,7 +42,7 @@
     "webpack-cli": "6.0.1"
   },
   "dependencies": {
-    "@babel/runtime": "^7.28.2",
+    "@babel/runtime": "^7.28.3",
     "@kintone/rest-api-client": "5.7.4",
     "axios": "1.11.0",
     "dayjs": "1.11.13",

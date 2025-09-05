@@ -22,7 +22,7 @@
   "description": "This is my kintone customization template.",
   "devDependencies": {
     "@babel/cli": "7.28.3",
-    "@babel/core": "7.28.3",
+    "@babel/core": "7.28.4",
     "@babel/plugin-transform-runtime": "^7.28.3",
     "@babel/preset-env": "7.28.3",
     "@babel/preset-typescript": "7.27.1",
@@ -42,7 +42,7 @@
     "webpack-cli": "6.0.1"
   },
   "dependencies": {
-    "@babel/runtime": "^7.28.3",
+    "@babel/runtime": "^7.28.4",
     "@kintone/rest-api-client": "5.7.4",
     "axios": "1.11.0",
     "dayjs": "1.11.18",
